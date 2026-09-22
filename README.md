@@ -412,6 +412,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Kagi](https://github.com/ac3xx/mcp-servers-kagi)** - Kagi search API integration
 - **[Keycloak MCP Server](https://github.com/sshaaf/keycloak-mcp-server)** - designed to work with Keycloak for identity and access management, with about 40+ tools covering, Users, Realms, Clients, Roles, Groups, IDPs, Authentication. Native builds available.
 - **[Kubernetes](https://github.com/Flux159/mcp-server-kubernetes)** - Connect to Kubernetes cluster and manage pods, deployments, services.
+- **[Kontekstolog](https://kontekstolog.online/mcp-yandex-direct)** - Remote MCP server for Yandex Direct advertising campaigns, Yandex Metrika analytics, and Wordstat keyword research. OAuth 2.1 auth. Remote endpoint: `https://kontekstolog.online/mcp`
 - **[Language Server](https://github.com/isaacphi/mcp-language-server)** 🏎️ - MCP Language Server gives MCP enabled clients access to semantic tools like get definition, references, rename, and diagnostics.
 - **[Latex MCP Server](https://github.com/Yeok-c/latex-mcp-server)** - MCP Server to compile latex, download/organize/read cited papers, run visualization scripts and add figures/tables to latex.
 - **[Lazy Toggl MCP](https://github.com/movstox/lazy-toggl-mcp)** - Simple unofficial MCP server to track time via Toggl API
